@@ -1,0 +1,25 @@
+{
+  "name": "q3",
+  "version": "1.0.0",
+  "description": "Lodash Throttle Function Debug test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeyakumarsv/PropineQ3.git"
+  },
+  "keywords": [
+    "throttle"
+  ],
+  "author": "Jeyakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeyakumarsv/PropineQ3/issues"
+  },
+  "homepage": "https://github.com/Jeyakumarsv/PropineQ3#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
